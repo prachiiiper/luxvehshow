@@ -33,3 +33,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# images - keep in public folder, exclude from app/images
+/app/images/*
+!/app/images/.gitkeep
+
