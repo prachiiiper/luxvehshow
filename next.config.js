@@ -8,7 +8,9 @@ const nextConfig = {
         pathname: '/us4g3mjub/**',
       },
     ],
+    unoptimized: false,
   },
+  reactStrictMode: true,
 }
 
 module.exports = nextConfig
