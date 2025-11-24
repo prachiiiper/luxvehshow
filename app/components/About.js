@@ -102,7 +102,7 @@ export default function About() {
           <div ref={imageRef} className="relative">
             <div className="aspect-[4/3] bg-black overflow-hidden border border-white relative">
               <Image
-                src="/images/showroom.png"
+                src="https://ik.imagekit.io/us4g3mjub/showroom.png"
                 alt="Luxury Showroom"
                 fill
                 className="object-cover"

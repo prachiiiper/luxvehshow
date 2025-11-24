@@ -17,7 +17,7 @@ const vehicles = [
       acceleration: '3.2 SEC',
       engine: 'V8 Twin Turbo'
     },
-    image: '/images/1.png',
+    image: 'https://ik.imagekit.io/us4g3mjub/1.png',
   },
   {
     id: 2,
@@ -30,7 +30,7 @@ const vehicles = [
       acceleration: '4.1 SEC',
       engine: 'V8 Hybrid'
     },
-    image: '/images/2.png',
+    image: 'https://ik.imagekit.io/us4g3mjub/2.png',
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const vehicles = [
       acceleration: '3.8 SEC',
       engine: 'V8 Biturbo'
     },
-    image: '/images/3.png',
+    image: 'https://ik.imagekit.io/us4g3mjub/3.png',
   },
 ]
 

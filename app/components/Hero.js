@@ -79,7 +79,7 @@ export default function Hero() {
               style={{ filter: 'drop-shadow(0 60px 120px rgba(0, 0, 0, 0.95)) drop-shadow(0 40px 80px rgba(0, 0, 0, 0.8)) drop-shadow(0 20px 40px rgba(0, 0, 0, 0.6))' }}
             >
               <Image
-                src="/images/download.png"
+                src="https://ik.imagekit.io/us4g3mjub/download.png"
                 alt="Luxury Vehicle"
                 fill
                 className="object-contain object-right"
